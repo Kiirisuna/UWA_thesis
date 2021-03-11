@@ -1,0 +1,16 @@
+Defence,DefenceCost,DoS,Packet Injection,Impersonation,Eavesdropping,Replay,Sybil,Jamming,Collusion,Black-hole
+2FLIP,4,1,0,0,0,0,0,0,0,0
+TESLA,2.5,1,1,0,0,0,0,0,0,0
+RAISE,6.4,0,0,1,0,0,0,0,0,0
+PACP,7.2,0,0,1,1,1,0,0,0,0
+SA-KMP,3.4,1,0,1,0,1,0,0,0,0
+GKMPAN,3.9,0,0,0,1,1,0,0,0,0
+PPAA,5.1,0,0,0,0,0,1,0,0,0
+Calandriello et al.,4.8,1,0,0,0,0,0,1,0,0
+PPGCV,4.2,0,0,0,0,0,0,0,1,0
+TACKs,6.1,0,0,0,1,0,1,0,0,0
+GSIS,4.2,1,0,0,0,0,0,0,0,0
+DABE,3.5,0,0,0,0,0,0,0,1,0
+ABACS,5.7,0,0,0,0,0,0,0,1,0
+Xia et al.,4.9,0,0,0,0,1,0,0,1,0
+Bouabdellah et al.,4.1,0,0,0,0,0,0,0,0,1
